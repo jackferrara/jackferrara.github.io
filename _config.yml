@@ -4,9 +4,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: <p style="color:green; font-family:helvetica">Test test
+title: <p style="color:purple;font-family:helvetica">Test test
 email: talamvicknair@gmail.com
-description: <p style="color:purple; font-family:helvetica"> # this means to ignore newlines until "baseurl:"
+description: <p style="color:purple;font-family:helvetica"> # this means to ignore newlines until "baseurl:"
   testing website for yea
 baseurl: "ultra-dweeb-trash.tumblr.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
