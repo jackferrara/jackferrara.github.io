@@ -8,11 +8,13 @@ title: "Welcome to MySafeHaven"
 email: talamvicknair@gmail.com
 description: <p style="color:purple;font-family:helvetica"> # this means to ignore newlines until "baseurl:"
   Currently a testing area for MySafeHaven, a future social media networking website.
-baseurl: "ultra-dweeb-trash.tumblr.com" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: ---
 github_username:  jackferrara
-
+<h1>
+  "Currently a wip, unsure if this will even show up.
+</h1>
 # Build settings
 markdown: kramdown
 
