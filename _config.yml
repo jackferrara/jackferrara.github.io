@@ -15,3 +15,5 @@ github_username:  jackferrara
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-time-machine
