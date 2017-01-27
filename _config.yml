@@ -18,3 +18,4 @@ markdown: kramdown
 Future: true
 Timezone: America/Denver
 theme: jekyll-theme-time-machine
+encoding: UTF-8
