@@ -4,7 +4,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: <p>
+title: Welcome to MySafeHaven
 email: talamvicknair@gmail.com
 description: <p style="color:purple;font-family:helvetica"> # this means to ignore newlines until "baseurl:"
   testing website for yea
