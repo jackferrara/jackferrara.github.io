@@ -6,7 +6,7 @@
 # Site settings
 title: "welcome to mysafehaven"
 email: talamvicknair@gmail.com
-description: <p style="color:purple;font-family:helvetica"> # this means to ignore newlines until "baseurl:"
+description: A testing website for MySafeHaven # this means to ignore newlines until "baseurl:"
   "Current testing page for future social media networking website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
