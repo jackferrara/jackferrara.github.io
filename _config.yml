@@ -10,8 +10,8 @@ description: <p style="color:purple;font-family:helvetica"> # this means to igno
   "Current testing page for future social media networking website"
 baseurl: "ultra-dweeb-trash.tumblr.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: ---
-github_username:  jackferrara
+twitter_username:
+github_username: jackferrara
 
 # Build settings
 markdown: kramdown
